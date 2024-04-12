@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I am a TSU student in Computer Science<br> residing in Venezuela<br>👯 With aspirations in the world of programming<br>🤝 More than all web development<br>🌱 front end and back end<br>💬 I will use this repository to guide me<br>⚡ and record my progress in this world 
 
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31rbve7dzcbfsa4iihwbr5nrj6eu&cover_image=true&theme=compact&show_offline=true&background_color=a51d2d&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/reinaldito04) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/reinaldo-bellorin-318528266/) 
 
